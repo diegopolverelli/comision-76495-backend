@@ -161,9 +161,16 @@ const starWarsCharacters = [
     },
 ]
 
-
+// función buscaPersonaje, con la cual me tildé durante el encuentro... 
+function buscaPersonaje(a){   // "a" será reemplazado por cada elemento del array, 
+    if(a.id==2){              // hasta que encuentre uno con id ==2, en cuyo caso
+        return true           // lo retornará; cuando el resultado es true, ese elemento
+    }                         // que está recorriendo en ese momento, lo retorna
+}
 
 let personaje=starWarsCharacters.find(p=>p.id=2)
+console.log(personaje)
+personaje=starWarsCharacters.find(buscaPersonaje)
 console.log(personaje)
 
 
