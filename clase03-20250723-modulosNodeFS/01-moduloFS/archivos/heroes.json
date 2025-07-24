@@ -1,0 +1,242 @@
+[
+     {
+          "id": 9001,
+          "name": "SPIDER-MAN-superheroe...!!!",
+          "alias": "Peter Parker",
+          "powers": [
+               "Wall-crawling",
+               "Web-shooting",
+               "Superhuman strength"
+          ],
+          "team": "Avengers",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9002,
+          "name": "SUPERMAN-superheroe...!!!",
+          "alias": "Clark Kent",
+          "powers": [
+               "Superhuman strength",
+               "Flight",
+               "Heat vision"
+          ],
+          "team": "Justice League",
+          "publisher": "DC"
+     },
+     {
+          "id": 9003,
+          "name": "IRON MAN-superheroe...!!!",
+          "alias": "Tony Stark",
+          "powers": [
+               "Powered armor",
+               "Genius-level intellect",
+               "Flight"
+          ],
+          "team": "Avengers",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9004,
+          "name": "WONDER WOMAN-superheroe...!!!",
+          "alias": "Diana Prince",
+          "powers": [
+               "Superhuman strength",
+               "Lasso of Truth",
+               "Flight"
+          ],
+          "team": "Justice League",
+          "publisher": "DC"
+     },
+     {
+          "id": 9005,
+          "name": "BLACK WIDOW-superheroe...!!!",
+          "alias": "Natasha Romanoff",
+          "powers": [
+               "Expert spy",
+               "Skilled hand-to-hand combatant",
+               "Weaponry"
+          ],
+          "team": "Avengers",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9006,
+          "name": "BATMAN-superheroe...!!!",
+          "alias": "Bruce Wayne",
+          "powers": [
+               "Intelligence",
+               "Peak human physical condition",
+               "Advanced technology"
+          ],
+          "team": "Justice League",
+          "publisher": "DC"
+     },
+     {
+          "id": 9007,
+          "name": "AQUAMAN-superheroe...!!!",
+          "alias": "Arthur Curry",
+          "powers": [
+               "Superhuman strength",
+               "Hydrokinesis",
+               "Telepathy with sea life"
+          ],
+          "team": "Justice League",
+          "publisher": "DC"
+     },
+     {
+          "id": 9008,
+          "name": "CAPTAIN AMERICA-superheroe...!!!",
+          "alias": "Steve Rogers",
+          "powers": [
+               "Superhuman strength",
+               "Enhanced agility",
+               "Indomitable will"
+          ],
+          "team": "Avengers",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9009,
+          "name": "FLASH-superheroe...!!!",
+          "alias": "Barry Allen",
+          "powers": [
+               "Super speed",
+               "Time travel",
+               "Speed force manipulation"
+          ],
+          "team": "Justice League",
+          "publisher": "DC"
+     },
+     {
+          "id": 9010,
+          "name": "BLACK PANTHER-superheroe...!!!",
+          "alias": "T'Challa",
+          "powers": [
+               "Enhanced senses",
+               "Vibranium suit",
+               "Skilled warrior"
+          ],
+          "team": "Avengers",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9011,
+          "name": "GREEN LANTERN-superheroe...!!!",
+          "alias": "Hal Jordan",
+          "powers": [
+               "Ring-generated constructs",
+               "Flight",
+               "Energy manipulation"
+          ],
+          "team": "Justice League",
+          "publisher": "DC"
+     },
+     {
+          "id": 9012,
+          "name": "THOR-superheroe...!!!",
+          "alias": "Thor Odinson",
+          "powers": [
+               "Mjolnir (hammer)",
+               "Control over lightning",
+               "Superhuman durability"
+          ],
+          "team": "Avengers",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9013,
+          "name": "BATWOMAN-superheroe...!!!",
+          "alias": "Kate Kane",
+          "powers": [
+               "Martial arts",
+               "Detective skills",
+               "Advanced technology"
+          ],
+          "team": "Bat Family",
+          "publisher": "DC"
+     },
+     {
+          "id": 9014,
+          "name": "HULK-superheroe...!!!",
+          "alias": "Bruce Banner",
+          "powers": [
+               "Superhuman strength",
+               "Invulnerability",
+               "Regenerative healing"
+          ],
+          "team": "Avengers",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9015,
+          "name": "ZATANNA-superheroe...!!!",
+          "alias": "Zatanna Zatara",
+          "powers": [
+               "Magic spells",
+               "Sorcery",
+               "Illusion manipulation"
+          ],
+          "team": "Justice League Dark",
+          "publisher": "DC"
+     },
+     {
+          "id": 9016,
+          "name": "DOCTOR STRANGE-superheroe...!!!",
+          "alias": "Stephen Strange",
+          "powers": [
+               "Mystic arts",
+               "Reality manipulation",
+               "Dimensional travel"
+          ],
+          "team": "Defenders",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9017,
+          "name": "GREEN ARROW-superheroe...!!!",
+          "alias": "Oliver Queen",
+          "powers": [
+               "Archery skills",
+               "Peak human physical condition",
+               "Strategic mind"
+          ],
+          "team": "Justice League",
+          "publisher": "DC"
+     },
+     {
+          "id": 9018,
+          "name": "SCARLET WITCH-superheroe...!!!",
+          "alias": "Wanda Maximoff",
+          "powers": [
+               "Reality manipulation",
+               "Energy projection",
+               "Telekinesis"
+          ],
+          "team": "Avengers",
+          "publisher": "Marvel"
+     },
+     {
+          "id": 9019,
+          "name": "MARTIAN MANHUNTER-superheroe...!!!",
+          "alias": "J'onn J'onzz",
+          "powers": [
+               "Shape-shifting",
+               "Telepathy",
+               "Super strength"
+          ],
+          "team": "Justice League",
+          "publisher": "DC"
+     },
+     {
+          "id": 9020,
+          "name": "DEADPOOL-superheroe...!!!",
+          "alias": "Wade Wilson",
+          "powers": [
+               "Regenerative healing",
+               "Expert marksman",
+               "Fourth wall breaking"
+          ],
+          "team": "None",
+          "publisher": "Marvel"
+     }
+]
