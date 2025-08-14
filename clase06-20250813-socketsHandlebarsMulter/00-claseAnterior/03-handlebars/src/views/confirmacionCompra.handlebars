@@ -1,0 +1,10 @@
+<h2>Orden de compra {{nroOrden}}</h2>
+<hr>
+<p>Felicitaciones! ha concretado su compra de valor {{importe}}</p>
+<p>Usted ha comprado lo siguiente:</p>
+
+<ul>
+    {{#each productos}}
+        <li>{{title}} - <strong>precio: </strong>$ {{price}}</li>
+    {{/each}}
+</ul>
