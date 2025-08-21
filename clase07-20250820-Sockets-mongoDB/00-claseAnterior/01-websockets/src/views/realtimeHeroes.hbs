@@ -1,0 +1,12 @@
+<h2>Heroes</h2>
+<hr>
+
+<ul id="heroes">
+    {{#each heroes}}
+        <li>{{name}} - identidad: <strong>{{alias}}</strong></li>
+    {{/each}}
+</ul>
+
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/rth.js"></script>
